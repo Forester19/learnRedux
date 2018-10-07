@@ -1,0 +1,20 @@
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: brown;
+    position: relative;
+}
+.header .headerDeclaration{
+    padding-left: 150px;
+    padding-top: 30px;
+    position: absolute;
+}
+.footer{
+    position: absolute;
+}
+.record{
+    width: 40px;
+    height: 40px;
+    background-color: yellow;
+    position: absolute;
+}
